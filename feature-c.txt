@@ -1,1 +1,2 @@
 First commit from feature-c
+Second line from feature-c
